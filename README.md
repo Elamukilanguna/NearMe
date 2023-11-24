@@ -233,11 +233,16 @@ There are about 374 houses in vendayampatti village. Pincode of vendayampatti vi
 ## OUTPUT
 ![new map](https://github.com/Elamukilanguna/NearMe/assets/144870462/a9b85186-e2f4-4e13-bb11-1f70af201385)
 
-![Alt text](2.png)
-![Alt text](3.png)
-![Alt text](4.png)
-![Alt text](5.png)
-![Alt text](6.png)
+![2](https://github.com/Elamukilanguna/NearMe/assets/144870462/a66ef63b-9afd-464d-acba-722b177d32e1)
+![3](https://github.com/Elamukilanguna/NearMe/assets/144870462/6736c30b-dd51-44d7-874f-84623744e456)
+![4](https://github.com/Elamukilanguna/NearMe/assets/144870462/6980d512-7459-4398-9251-a483af625784)
+![5](https://github.com/Elamukilanguna/NearMe/assets/144870462/991e9ce4-2add-4ba9-93a9-5eef09f3d6a0)
+![6](https://github.com/Elamukilanguna/NearMe/assets/144870462/78f509f3-27f5-4fc3-8900-e1a6d8e95682)
+
+
+
+
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
