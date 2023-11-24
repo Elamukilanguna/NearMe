@@ -231,6 +231,8 @@ There are about 374 houses in vendayampatti village. Pincode of vendayampatti vi
 ```
 
 ## OUTPUT
+![new map](https://github.com/Elamukilanguna/NearMe/assets/144870462/a9b85186-e2f4-4e13-bb11-1f70af201385)
+
 ![Alt text](2.png)
 ![Alt text](3.png)
 ![Alt text](4.png)
